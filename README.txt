@@ -5,4 +5,4 @@ The HTML file includes various elements such as headings, paragraphs, images, an
 
 This project is not only a demonstration of my understanding of web development concepts, but also serves as a foundation for my future projects. As I continue to grow as a web developer, I will build upon the skills and knowledge I have gained from this project to create more complex and intricate websites.
 
-I welcome any feedback or suggestions you may have, as it will help me to continue growing and improving as a web developer. Thank you for your time and I hope you enjoy this project..
+I'll welcome any feedback or suggestions you may have, as it will help me to continue growing and improving as a web developer. Thank you for your time and I hope you enjoy this project..
